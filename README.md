@@ -6,7 +6,6 @@
   <a href="https://github.com/joelandradesp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joelandradesp&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelandradesp&layout=compact&langs_count=8&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=joelandradesp"/>
 </div>
 
  <div style="display: inline_block"><br>

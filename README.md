@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Joel Alexandre Matusevicius de Andrade
-- 👀 Tenho interesse em Java, Python, Angular JS, Angular, Spring Boot, Swagger, Nuvens.
+- 👀 Tenho interesse em Java, Python, Angular JS, Angular, TypeScript, Spring Boot, Swagger, Nuvens.
 - 🌱 Estou estudando MBA in Big Data na FIA. E me atualizando para Full Stack com Angular.
 
 <div align="center">
